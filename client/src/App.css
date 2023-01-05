@@ -35,3 +35,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.sub-container{
+  display: grid;
+  row-gap: 3px;
+}
+.sub-container>button{
+  height: 40px;
+  width: 300px;
+}
+
+
+.sub-container>button a{
+  text-decoration: none;
+}
+
+.sub-container>img{
+  height: 40%;
+  justify-self: flex-end;
+}
