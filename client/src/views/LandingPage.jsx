@@ -34,13 +34,100 @@ const LandingPage = props => {
                 <p>$6.00</p>
             </li>
 
+            <li>
+                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <section>
+                    <h2>Food Item</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                </section>
+                <p>$6.00</p>
+            </li>
+
+            <li>
+                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <section>
+                    <h2>Food Item</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                </section>
+                <p>$6.00</p>
+            </li>
+
+            <li>
+                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <section>
+                    <h2>Food Item</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                </section>
+                <p>$6.00</p>
+            </li>
+
+            <li>
+                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <section>
+                    <h2>Food Item</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                </section>
+                <p>$6.00</p>
+            </li>
+
+            <li>
+                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <section>
+                    <h2>Food Item</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                </section>
+                <p>$6.00</p>
+            </li>
+
+            <li>
+                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <section>
+                    <h2>Food Item</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                </section>
+                <p>$6.00</p>
+            </li>
+            <li>
+                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <section>
+                    <h2>Food Item</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                </section>
+                <p>$6.00</p>
+            </li>
+
+            <li>
+                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <section>
+                    <h2>Food Item</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                </section>
+                <p>$6.00</p>
+            </li>
+
         </ul>
 
 
         </main>
 
         <footer>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit ipsa alias ex, modi voluptates laborum doloribus eum saepe, nisi recusandae fuga architecto eveniet natus necessitatibus maiores culpa, beatae incidunt nulla?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis sit quod eius quidem? Dolorem at odio excepturi nam magnam dignissimos ex fuga nesciunt quasi optio quis, consectetur ratione magni recusandae?</p>
+            <img src="/assets/FlowersRight.png" alt="" />
+            <aside>
+                <h2>Watch Live</h2>
+                <img src="/assets/LiveVideo.png" alt="" />
+
+                <footer>
+                <img src="/assets/InstagramPhoto.png" alt="" />
+
+                    <p>Find us on instagram</p>
+
+                </footer>
+
+            </aside>
+
+          
+
+        
         </footer>
 
     </div>
