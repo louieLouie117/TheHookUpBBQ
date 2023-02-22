@@ -1,14 +1,14 @@
 import './App.css';
 import ActiveWebsite from './components/ActiveWebsite';
+import LandingPage from './views/LandingPage';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>LC Website Solutions</p>
-        <h1>The Hook Up BBQ</h1>
-        <ActiveWebsite></ActiveWebsite>
-        <p>by Luis Cardona</p>
+        {/* <ActiveWebsite></ActiveWebsite> */}
+        <LandingPage></LandingPage>
+        
       </header>
     </div>
   );
