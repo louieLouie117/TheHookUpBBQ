@@ -1,6 +1,12 @@
 import React from 'react'
 
 const LandingPage = props => {
+
+    const CateringHandler = e => {
+        alert("Catering page is being updated please call for more information.")
+    }
+
+    
   return (
     <div className='LandingPage-Container'>
         <header>
@@ -9,8 +15,12 @@ const LandingPage = props => {
                 <h1>The Hook Up</h1>
                 <p>Island Style BBQ</p>
             </div>
-                
-                <a href="https://streetfoodfinder.com/thehookup_671"><button>location</button></a>
+            
+            <section>
+                <a href="https://streetfoodfinder.com/thehookup_671"><button>Location</button></a>
+                <button onClick={CateringHandler}>Catering</button>
+            </section>
+
         </header>
 
         <main>
@@ -99,17 +109,22 @@ const LandingPage = props => {
             <img src="/assets/FlowersRight.png" alt="" />
             <aside>
                 <h2>Watch Live</h2>
+                <a href="https://www.tiktok.com/">
                 <img src="/assets/LiveVideo.png" alt="" />
+                </a>
 
                 <footer>
                 <img src="/assets/InstagramPhoto.png" alt="" />
 
                     <section>
                         <p>Find us on instagram </p>
+                        <div>
+
                         <a href="https://www.instagram.com/thehookup_671/">@thehookup_671</a>
                         <a href="https://www.instagram.com/thehookup_671/">
                             <img src="/assets/IconInstagram.png" alt="" />
                         </a>
+                        </div>
 
                     </section>
                 </footer>
