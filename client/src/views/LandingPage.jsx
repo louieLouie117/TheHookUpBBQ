@@ -18,93 +18,77 @@ const LandingPage = props => {
 
         <ul>
             <li>
-                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <img src="/assets/FoodItems/Lumpia.png" alt="" />
                 <section>
-                    <h2>Food Item</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                    <h2>Lumpias(4)</h2>
+                    <p>Choice of Shrimp, Pork or Chicken served with sweet chili.</p>
                 </section>
                 <p>$6.00</p>
             </li>
 
             <li>
-                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <img src="/assets/FoodItems/CrabPatties.png" alt="" />
                 <section>
-                    <h2>Food Item</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                    <h2>Crab Patties</h2>
+                    <p>Fired fritters loaded with shredded crab and vegetables.</p>
                 </section>
-                <p>$6.00</p>
+                <p>$8.00</p>
             </li>
 
             <li>
-                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <img src="/assets/FoodItems/KadunPika.png" alt="" />
                 <section>
-                    <h2>Food Item</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                    <h2>Kadun Pika</h2>
+                    <p>Marinated chicken in soy sauce, vinegar and onions served with rice, potato salad, cucumber daigo salad.</p>
                 </section>
-                <p>$6.00</p>
+                <p>$16.00</p>
             </li>
 
             <li>
-                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <img src="/assets/FoodItems/BBQShortRibs.png" alt="" />
                 <section>
-                    <h2>Food Item</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                    <h2>BBQ Short Ribs</h2>
+                    <p>BBQ Short Rubs served with red rice,  potato salad, cucumber daigo salad.</p>
                 </section>
-                <p>$6.00</p>
+                <p>$16.00</p>
             </li>
 
             <li>
-                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <img src="/assets/FoodItems/BBQTeriyakiChicken.png" alt="" />
                 <section>
-                    <h2>Food Item</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                    <h2>BBQ Teriyaki Chicken</h2>
+                    <p>Marinated chicken in soy sauce, vinegar and onions served with rice, potato salad, cucumber daigo salad..</p>
                 </section>
-                <p>$6.00</p>
+                <p>$16.00</p>
             </li>
 
             <li>
-                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <img src="/assets/FoodItems/TinalaKatne.png" alt="" />
                 <section>
-                    <h2>Food Item</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                    <h2>Tinala’ Katne</h2>
+                    <p>Cured smoked beef or pork seasoned to perfection served with red rice, potato salad, cucumber daigo salad, and fina’dene sauce.</p>
                 </section>
-                <p>$6.00</p>
+                <p>$16.00</p>
             </li>
 
             <li>
-                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <img src="/assets/FoodItems/TheHookUp.png" alt="" />
                 <section>
-                    <h2>Food Item</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                    <h2>The Hook Up</h2>
+                    <p>Marinated chicken in soy sauce, vinegar and onions served with rice, potato salad, cucumber daigo salad.</p>
                 </section>
-                <p>$6.00</p>
+                <p>$18.00</p>
             </li>
 
             <li>
-                <img src="/assets/FoodItemPhoto.png" alt="" />
+                <img src="/assets/FoodItems/LatiyaDessert.png" alt="" />
                 <section>
-                    <h2>Food Item</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
+                    <h2>Latiya Dessert</h2>
+                    <p>Yellow cake with a light creamy custard-like pudding topped with cinnamon powder.</p>
                 </section>
-                <p>$6.00</p>
+                <p>$8.00</p>
             </li>
-            <li>
-                <img src="/assets/FoodItemPhoto.png" alt="" />
-                <section>
-                    <h2>Food Item</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
-                </section>
-                <p>$6.00</p>
-            </li>
-
-            <li>
-                <img src="/assets/FoodItemPhoto.png" alt="" />
-                <section>
-                    <h2>Food Item</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a mollitia dolores placeat modi e.</p>
-                </section>
-                <p>$6.00</p>
-            </li>
+      
 
         </ul>
 

@@ -113,10 +113,10 @@ h1, p, h2{
 
 .LandingPage-Container>main ul li {
   display: grid;
-  grid-template-columns: 1fr 4fr 1.3fr;
+  grid-template-columns: 2fr 4fr 1.3fr;
   background-color: white;
   height: 109px;
-  width: 350px;
+  width: 360px;
   box-shadow: -3px -1px 5px rgba(0, 0, 0, 0.381);
   border-radius: 10px;
   align-items: center;
@@ -125,6 +125,7 @@ h1, p, h2{
 .LandingPage-Container>main ul li section{
   display: grid;
   font: .7em sans-serif;
+  padding: 7px;
 }
 
 
@@ -193,7 +194,7 @@ h1, p, h2{
 
 .LandingPage-Container>main ul li {
   font: 1em sans-serif;
-  width: 350px;
+  width: 400px;
   font-size: .6em;
   margin-right: 50px;
 }
