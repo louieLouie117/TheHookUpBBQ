@@ -9,7 +9,8 @@ const LandingPage = props => {
                 <h1>The Hook Up</h1>
                 <p>Island Style BBQ</p>
             </div>
-            <button>Location</button>
+                
+                <a href="https://streetfoodfinder.com/thehookup_671"><button>location</button></a>
         </header>
 
         <main>
@@ -119,8 +120,14 @@ const LandingPage = props => {
                 <footer>
                 <img src="/assets/InstagramPhoto.png" alt="" />
 
-                    <p>Find us on instagram</p>
+                    <section>
+                        <p>Find us on instagram </p>
+                        <a href="https://www.instagram.com/thehookup_671/">@thehookup_671</a>
+                        <a href="https://www.instagram.com/thehookup_671/">
+                            <img src="/assets/IconInstagram.png" alt="" />
+                        </a>
 
+                    </section>
                 </footer>
 
             </aside>
